@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">A passionate full stack developer from Poland</h3>
 
-- 🔭 I’m currently working on **Online shop**
+- 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **React libraries**
+- 🌱 I’m currently learning **React Native**
 
 - 💖 Favourite stack **React Typescript Express PostgreSQL**
 
 - 📫 How to reach me **michal.kepka16@gmail.com**
-
-- ⚡ Fun fact **PHP is slow**
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
