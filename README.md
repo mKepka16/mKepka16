@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">A passionate full stack developer from Poland</h3>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **Commodore 64 Impossible Mission remake**
 
 - 🌱 I’m currently learning **React Native**
 
