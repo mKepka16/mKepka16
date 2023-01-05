@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
 <h3 align="center">A passionate full stack developer from Poland</h3>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **Top Secret Side Project**
 
-- 🌱 I’m currently learning **React Native** and **NextJS**
+- 🌱 I’m currently learning **ASP.NET** and **Svelte**
 
 - 💖 Favourite stack **React Typescript Express PostgreSQL**
 
