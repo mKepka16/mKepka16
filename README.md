@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **michal.kepka16@gmail.com**
 
+- Page for "narzędzia programowania": [Link](https://mkepka16.github.io/narzedzia_strona/)
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <!-- HTML -->
