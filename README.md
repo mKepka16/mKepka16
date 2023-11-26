@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **michal.kepka16@gmail.com**
 
-- Page for "narzędzia programowania": [Link](https://mkepka16.github.io/narzedzia_strona/)
+- Page for "narzędzia informatyczne" (github pages): [Link](https://mkepka16.github.io/narzedzia_strona/)
+- Page for "narzędzie informatyczne" (inny hosting):[Link](https://mkepka162003.000webhostapp.com/)
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
