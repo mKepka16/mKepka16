@@ -9,11 +9,6 @@
 
 - 📫 How to reach me **michal.kepka16@gmail.com**
 
-- Page for "narzędzia informatyczne" (github pages): [Link](https://mkepka16.github.io/narzedzia_strona/)
-- Page for "narzędzie informatyczne" (inny hosting): [Link](https://mkepka162003.000webhostapp.com/)
-- Link do forka: [Link](https://github.com/mKepka16/DemoFusion)
-- Link do papers with code: [Strona](https://paperswithcode.com/paper/demofusion-democratising-high-resolution) [Artykuł](https://arxiv.org/pdf/2311.16973v1.pdf)
-
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <!-- HTML -->
