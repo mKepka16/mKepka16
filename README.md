@@ -6,6 +6,7 @@ I'm **Michał**, a **Software Engineer** with a strong fullstack background — 
 - 📡 I work a lot with **Bluetooth LE** devices
 - 🎓 Studying **Computer Science and Intelligent Systems** at AGH University of Kraków
 - ⚙️ Currently learning embedded development in my free time (playing with the Nordic SDK on a devkit board)
+- ✍️ I write about my projects on my blog: [**Bits, Bolts & Boards**](https://bitsboltsboards.kepka.dev/)
 - 🚀 Always curious, always building!
 
 📫 **How to reach me:** [michal.kepka16@gmail.com](mailto:michal.kepka16@gmail.com)  
