@@ -6,7 +6,7 @@ I'm **Michał**, a **Software Engineer** working across the full stack and firmw
 - 💻 **Software**: TypeScript, Node.js, React, PostgreSQL, embedded Linux
 - 📡 Currently building IoT edge gateways and battery-powered sensor devices at Transmission Dynamics
 - 🚁 Working with ROS 2 on an autonomous drone at the **AVADER** student club (AGH)
-- 🔧 Side project: [**mk-modbus**](https://github.com/michalkepka/mk-modbus) — Modbus protocol implemented from scratch, no AI
+- 🔧 Side project: [**mk-modbus**](https://github.com/mKepka16/mk-modbus) — Modbus protocol implemented from scratch, no AI
 - 🎓 BEng in **Informatics and Intelligent Systems**, AGH University of Kraków
 
 📫 [michal.kepka16@gmail.com](mailto:michal.kepka16@gmail.com)
